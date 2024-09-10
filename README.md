@@ -28,7 +28,7 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   https://github.com/parthodas0/Package-Delivery-Express.git
 2. **Open the Project in Unity:**
 - Make sure you have [Unity](https://unity.com/) installed.
 - Open the Unity Hub application.
